@@ -1,9 +1,10 @@
 import { NgModule, Optional, SkipSelf } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HeadComponent } from './head/head.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
-  declarations: [HeadComponent],
+  declarations: [HeadComponent, FooterComponent],
   imports: [
     CommonModule
   ]
