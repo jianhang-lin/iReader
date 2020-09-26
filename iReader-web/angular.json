@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "iReader-web"
+    }
+  },
+  "defaultProject": "iReader-web",
+  "cli": {
+    "analytics": "026ed269-76c4-4e90-9f34-b59af52d9f43"
+  }
 }
